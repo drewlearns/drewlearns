@@ -1,6 +1,4 @@
-
-
-@codingwithdrew
+Coding With Drew LLC
 Learn how to code - FREE!
 
 [Get the Lessons Right here!](https://codingwithdrew.com)
