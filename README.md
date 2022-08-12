@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**drewlearns/drewlearns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+@codingwithdrew
+Learn how to code - FREE!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Get the Lessons Right here!](https://codingwithdrew.com)
+
+(Make a Resume that slaps)(https://www.youtube.com/embed/iQMYPo1Dhr8) 
+(My Youtube Channel)[https://www.youtube.com/channel/UC-7yWq_BrlAHROb_nx_em3g?sub_confirmation=1]
+
+[Connect With Me on Linkedin!](https://linkedin.com/in/drewlearns)
+
+[My Resume](https://share.drewlearns.com/L1uWKgXp?_ga=2.218334873.1425769950.1658920008-1467761419.1656757586)
+
+[Book time on my calendar](https://drewlearns.com/30-2)
+
+[My Portfolio Blog](https://drewlearns.com/)
+
+Fix Your Linkedin Page!
+<iframe src="https://share.drewlearns.com/nOuXPEbn?embed=true" width="575" height="400" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" style="border: none;" data-frame-src="https://share.drewlearns.com/nOuXPEbn?embed=true"></iframe>
+
+Cookie Preferences
