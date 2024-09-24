@@ -1,1 +1,1 @@
-[Go Here for the worlds best budgeting app](https://ThePurplePiggyBank.com)
+Read my blog at [CodingWithDrew.com](https://codingwithdrew.com)
